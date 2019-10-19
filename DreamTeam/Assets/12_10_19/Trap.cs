@@ -12,7 +12,7 @@ namespace Game
         public bool Close1 = false;
         private Vector3 move;
         public bool ravno8 = false;
-        public PlayerController Player;
+        public Player_Controller Player;
 
         void Start()
         {
@@ -55,7 +55,7 @@ namespace Game
                 }
 
             }
-            if(Player.Player.transform.position.y < 5)
+            if(Player.transform.position.y < 5)
             {
                 ravno8 = false;
             }
