@@ -20,10 +20,10 @@ using UnityEngine;
 
             if (Physics.Raycast(Ray_, out hit, 3f, Flashlight_))
             {
-         
+                Flashlight = true;
                 if (Input.GetKeyDown(KeyCode.E))
                 {
-                    Flashlight = true;
+
                     Destroy(hit.collider.gameObject);
                 }
             }
@@ -34,4 +34,3 @@ using UnityEngine;
 
         }
     }
-

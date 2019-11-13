@@ -41,7 +41,7 @@ namespace lol
         void Update()
         {
 
-            // Управление камерой(мышь) 
+            // Управление камерой(мышь)
             x_Rot -= Input.GetAxis("Mouse Y") * Sensa;
             y_Rot += Input.GetAxis("Mouse X") * Sensa;
 
@@ -75,7 +75,13 @@ namespace lol
             _Ch.Move(move);
             //---------------------------------------------------------------------------------------
 
+            CheckIfRayCastHit()
 
+
+        }
+
+        void CheckIfRayCastHit() {
+          RaycastHit hit;
 
         }
     }
