@@ -75,9 +75,14 @@ namespace lol
             _Ch.Move(move);
             //---------------------------------------------------------------------------------------
 
+            CheckIfRayCastHit()
 
 
         }
 
+        void CheckIfRayCastHit() {
+          RaycastHit hit;
+
+        }
     }
 }
