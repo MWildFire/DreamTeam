@@ -8,6 +8,10 @@ namespace lol
     {
         public int Coins;
 
+        public G_U_I GUI_Script;
+
+        private bool _flashlight;
+
         public GameObject Player_Cameras;
         // Переменные под мышь
         private float x_Rot;
@@ -75,14 +79,9 @@ namespace lol
             _Ch.Move(move);
             //---------------------------------------------------------------------------------------
 
-            CheckIfRayCastHit()
-
-
-        }
-
-        void CheckIfRayCastHit() {
-          RaycastHit hit;
+            
 
         }
+
     }
 }
