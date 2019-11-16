@@ -39,6 +39,7 @@ namespace lol
             {
                 FlashLight.SetActive(true);
                 Fl_Active = true;
+                NumberOnePressed = false;
             } // Если фонарик выбран на панели, то он появляется в руках
             if (Fl_Active == true && Input.GetKeyDown(KeyCode.Mouse0) && light_fl == false)
             {
@@ -78,9 +79,9 @@ namespace lol
 
             if(NumberOnePressed)
             {
-                GUI.Box(new Rect(250, 50, 100, 75), "");
-                GUI.BeginGroup(new Rect(250, 50, 100, 75));
-                GUI.Label(new Rect(20, 20, 60, 35), FlashlightImage);
+                GUI.Box(new Rect(400, 50, 200, 150), "");
+                GUI.BeginGroup(new Rect(400, 50, 200, 150));
+                GUI.Label(new Rect(20, 20, 160, 110), FlashlightImage);
                 GUI.EndGroup();
             }
         }

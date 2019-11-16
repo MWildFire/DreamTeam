@@ -121,7 +121,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6944489}
-  - component: {fileID: 6944488}
   m_Layer: 0
   m_Name: derevo (41)
   m_TagString: Untagged
@@ -129,20 +128,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &6944488
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 6944487}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &6944489
 Transform:
   m_ObjectHideFlags: 0
@@ -378,7 +363,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 125919352}
-  - component: {fileID: 125919351}
   m_Layer: 0
   m_Name: derevo (37)
   m_TagString: Untagged
@@ -386,20 +370,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &125919351
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 125919350}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &125919352
 Transform:
   m_ObjectHideFlags: 0
@@ -451,7 +421,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 143424376}
-  - component: {fileID: 143424375}
   m_Layer: 0
   m_Name: derevo (25)
   m_TagString: Untagged
@@ -459,20 +428,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &143424375
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 143424374}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &143424376
 Transform:
   m_ObjectHideFlags: 0
@@ -783,7 +738,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 216513994}
-  - component: {fileID: 216513993}
   m_Layer: 0
   m_Name: derevo (40)
   m_TagString: Untagged
@@ -791,20 +745,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &216513993
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 216513992}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &216513994
 Transform:
   m_ObjectHideFlags: 0
@@ -899,7 +839,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 234200541}
-  - component: {fileID: 234200540}
   m_Layer: 0
   m_Name: derevo (51)
   m_TagString: Untagged
@@ -907,20 +846,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &234200540
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 234200539}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &234200541
 Transform:
   m_ObjectHideFlags: 0
@@ -1319,7 +1244,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 258741660}
-  - component: {fileID: 258741659}
   m_Layer: 0
   m_Name: derevo (45)
   m_TagString: Untagged
@@ -1327,20 +1251,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &258741659
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 258741658}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &258741660
 Transform:
   m_ObjectHideFlags: 0
@@ -1418,7 +1328,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 87a63281663114d42bf6bc1da67ab3ff, type: 3}
+  - {fileID: 2100000, guid: 042200b6f7e0fa8449079b2db3d54541, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1686,7 +1596,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 297323033}
-  - component: {fileID: 297323032}
   m_Layer: 0
   m_Name: derevo (6)
   m_TagString: Untagged
@@ -1694,20 +1603,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &297323032
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 297323031}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &297323033
 Transform:
   m_ObjectHideFlags: 0
@@ -1933,7 +1828,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 87a63281663114d42bf6bc1da67ab3ff, type: 3}
+  - {fileID: 2100000, guid: 042200b6f7e0fa8449079b2db3d54541, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2407,7 +2302,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 395249984}
-  - component: {fileID: 395249983}
   m_Layer: 0
   m_Name: derevo (56)
   m_TagString: Untagged
@@ -2415,20 +2309,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &395249983
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 395249982}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &395249984
 Transform:
   m_ObjectHideFlags: 0
@@ -2451,7 +2331,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 409653349}
-  - component: {fileID: 409653348}
   m_Layer: 0
   m_Name: derevo (52)
   m_TagString: Untagged
@@ -2459,20 +2338,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &409653348
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 409653347}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &409653349
 Transform:
   m_ObjectHideFlags: 0
@@ -2567,7 +2432,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 440123070}
-  - component: {fileID: 440123069}
   m_Layer: 0
   m_Name: derevo (49)
   m_TagString: Untagged
@@ -2575,20 +2439,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &440123069
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 440123068}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &440123070
 Transform:
   m_ObjectHideFlags: 0
@@ -2755,7 +2605,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 478993703}
-  - component: {fileID: 478993702}
   m_Layer: 0
   m_Name: derevo (36)
   m_TagString: Untagged
@@ -2763,20 +2612,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &478993702
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 478993701}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &478993703
 Transform:
   m_ObjectHideFlags: 0
@@ -2969,7 +2804,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 511518139}
-  - component: {fileID: 511518138}
   m_Layer: 0
   m_Name: derevo (7)
   m_TagString: Untagged
@@ -2977,20 +2811,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &511518138
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 511518137}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &511518139
 Transform:
   m_ObjectHideFlags: 0
@@ -3261,7 +3081,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 544228511}
-  - component: {fileID: 544228510}
   m_Layer: 0
   m_Name: derevo (59)
   m_TagString: Untagged
@@ -3269,20 +3088,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &544228510
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 544228509}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &544228511
 Transform:
   m_ObjectHideFlags: 0
@@ -3305,7 +3110,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 556590799}
-  - component: {fileID: 556590798}
   m_Layer: 0
   m_Name: derevo (22)
   m_TagString: Untagged
@@ -3313,20 +3117,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &556590798
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 556590797}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &556590799
 Transform:
   m_ObjectHideFlags: 0
@@ -3421,7 +3211,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 575917017}
-  - component: {fileID: 575917016}
   m_Layer: 0
   m_Name: derevo (17)
   m_TagString: Untagged
@@ -3429,20 +3218,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &575917016
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 575917015}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &575917017
 Transform:
   m_ObjectHideFlags: 0
@@ -3465,7 +3240,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 598679556}
-  - component: {fileID: 598679555}
   m_Layer: 0
   m_Name: derevo (13)
   m_TagString: Untagged
@@ -3473,20 +3247,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &598679555
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 598679554}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &598679556
 Transform:
   m_ObjectHideFlags: 0
@@ -3509,7 +3269,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 626860583}
-  - component: {fileID: 626860582}
   m_Layer: 0
   m_Name: derevo (10)
   m_TagString: Untagged
@@ -3517,20 +3276,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &626860582
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 626860581}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &626860583
 Transform:
   m_ObjectHideFlags: 0
@@ -3625,7 +3370,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 677400106}
-  - component: {fileID: 677400105}
   m_Layer: 0
   m_Name: derevo (35)
   m_TagString: Untagged
@@ -3633,20 +3377,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &677400105
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 677400104}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &677400106
 Transform:
   m_ObjectHideFlags: 0
@@ -3760,8 +3490,8 @@ Light:
   m_Type: 0
   m_Color: {r: 0.9528302, g: 0.9528302, b: 0.8224902, a: 1}
   m_Intensity: 0.5
-  m_Range: 10
-  m_SpotAngle: 30
+  m_Range: 20
+  m_SpotAngle: 50
   m_CookieSize: 10
   m_Shadows:
     m_Type: 0
@@ -4290,7 +4020,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 829937602}
-  - component: {fileID: 829937600}
   - component: {fileID: 829937601}
   m_Layer: 0
   m_Name: derevo (4)
@@ -4299,20 +4028,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &829937600
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 829937599}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!64 &829937601
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4594,7 +4309,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 875510819}
-  - component: {fileID: 875510818}
   m_Layer: 0
   m_Name: derevo (47)
   m_TagString: Untagged
@@ -4602,20 +4316,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &875510818
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 875510817}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &875510819
 Transform:
   m_ObjectHideFlags: 0
@@ -4638,7 +4338,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 878045291}
-  - component: {fileID: 878045290}
   m_Layer: 0
   m_Name: derevo (33)
   m_TagString: Untagged
@@ -4646,20 +4345,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &878045290
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 878045289}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &878045291
 Transform:
   m_ObjectHideFlags: 0
@@ -4737,7 +4422,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 87a63281663114d42bf6bc1da67ab3ff, type: 3}
+  - {fileID: 2100000, guid: 77b65f538e6ae24459726f9767c29357, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4917,7 +4602,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 916523353}
-  - component: {fileID: 916523352}
   m_Layer: 0
   m_Name: derevo (61)
   m_TagString: Untagged
@@ -4925,20 +4609,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &916523352
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 916523351}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &916523353
 Transform:
   m_ObjectHideFlags: 0
@@ -4961,7 +4631,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 918214695}
-  - component: {fileID: 918214694}
   m_Layer: 0
   m_Name: derevo (18)
   m_TagString: Untagged
@@ -4969,20 +4638,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &918214694
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 918214693}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &918214695
 Transform:
   m_ObjectHideFlags: 0
@@ -5077,7 +4732,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 930427064}
-  - component: {fileID: 930427063}
   m_Layer: 0
   m_Name: derevo (19)
   m_TagString: Untagged
@@ -5085,20 +4739,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &930427063
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 930427062}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &930427064
 Transform:
   m_ObjectHideFlags: 0
@@ -5193,7 +4833,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 949865825}
-  - component: {fileID: 949865824}
   m_Layer: 0
   m_Name: derevo (58)
   m_TagString: Untagged
@@ -5201,20 +4840,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &949865824
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 949865823}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &949865825
 Transform:
   m_ObjectHideFlags: 0
@@ -5388,7 +5013,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 950503935}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a4231dffae6ac0049a02b26e44a5a0cd, type: 3}
   m_Name: 
@@ -5737,7 +5362,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 989173223}
-  - component: {fileID: 989173222}
   m_Layer: 0
   m_Name: derevo (31)
   m_TagString: Untagged
@@ -5745,20 +5369,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &989173222
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 989173221}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &989173223
 Transform:
   m_ObjectHideFlags: 0
@@ -5853,7 +5463,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1006430207}
-  - component: {fileID: 1006430206}
   m_Layer: 0
   m_Name: derevo (28)
   m_TagString: Untagged
@@ -5861,20 +5470,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1006430206
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1006430205}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1006430207
 Transform:
   m_ObjectHideFlags: 0
@@ -5897,7 +5492,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1018391736}
-  - component: {fileID: 1018391735}
   m_Layer: 0
   m_Name: derevo (50)
   m_TagString: Untagged
@@ -5905,20 +5499,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1018391735
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1018391734}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1018391736
 Transform:
   m_ObjectHideFlags: 0
@@ -6032,7 +5612,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1043113654}
-  - component: {fileID: 1043113653}
   m_Layer: 0
   m_Name: derevo (34)
   m_TagString: Untagged
@@ -6040,20 +5619,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1043113653
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1043113652}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1043113654
 Transform:
   m_ObjectHideFlags: 0
@@ -6076,7 +5641,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1061329607}
-  - component: {fileID: 1061329606}
   m_Layer: 0
   m_Name: derevo (23)
   m_TagString: Untagged
@@ -6084,20 +5648,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1061329606
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1061329605}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1061329607
 Transform:
   m_ObjectHideFlags: 0
@@ -6120,7 +5670,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1066148519}
-  - component: {fileID: 1066148518}
   m_Layer: 0
   m_Name: derevo (3)
   m_TagString: Untagged
@@ -6128,20 +5677,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1066148518
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1066148517}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1066148519
 Transform:
   m_ObjectHideFlags: 0
@@ -6230,7 +5765,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1090327977}
-  - component: {fileID: 1090327976}
   m_Layer: 0
   m_Name: derevo (44)
   m_TagString: Untagged
@@ -6238,20 +5772,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1090327976
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1090327975}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1090327977
 Transform:
   m_ObjectHideFlags: 0
@@ -6447,7 +5967,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1102540073}
-  - component: {fileID: 1102540072}
   m_Layer: 0
   m_Name: derevo (21)
   m_TagString: Untagged
@@ -6455,20 +5974,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1102540072
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1102540071}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1102540073
 Transform:
   m_ObjectHideFlags: 0
@@ -6491,7 +5996,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1115040204}
-  - component: {fileID: 1115040203}
   m_Layer: 0
   m_Name: derevo (63)
   m_TagString: Untagged
@@ -6499,20 +6003,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1115040203
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1115040202}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1115040204
 Transform:
   m_ObjectHideFlags: 0
@@ -6840,7 +6330,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1146795011}
-  - component: {fileID: 1146795010}
   m_Layer: 0
   m_Name: derevo (12)
   m_TagString: Untagged
@@ -6848,20 +6337,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1146795010
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1146795009}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1146795011
 Transform:
   m_ObjectHideFlags: 0
@@ -6956,7 +6431,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1188301543}
-  - component: {fileID: 1188301542}
   m_Layer: 0
   m_Name: derevo (42)
   m_TagString: Untagged
@@ -6964,20 +6438,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1188301542
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1188301541}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1188301543
 Transform:
   m_ObjectHideFlags: 0
@@ -7000,7 +6460,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1206533001}
-  - component: {fileID: 1206533000}
   m_Layer: 0
   m_Name: derevo (8)
   m_TagString: Untagged
@@ -7008,20 +6467,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1206533000
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1206532999}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1206533001
 Transform:
   m_ObjectHideFlags: 0
@@ -7329,7 +6774,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1331259217}
-  - component: {fileID: 1331259216}
   m_Layer: 0
   m_Name: derevo (60)
   m_TagString: Untagged
@@ -7337,20 +6781,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1331259216
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1331259215}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1331259217
 Transform:
   m_ObjectHideFlags: 0
@@ -7373,7 +6803,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1342130258}
-  - component: {fileID: 1342130257}
   m_Layer: 0
   m_Name: derevo (5)
   m_TagString: Untagged
@@ -7381,20 +6810,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1342130257
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1342130256}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1342130258
 Transform:
   m_ObjectHideFlags: 0
@@ -7417,7 +6832,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1354787141}
-  - component: {fileID: 1354787140}
   m_Layer: 0
   m_Name: derevo (27)
   m_TagString: Untagged
@@ -7425,20 +6839,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1354787140
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1354787139}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1354787141
 Transform:
   m_ObjectHideFlags: 0
@@ -7533,7 +6933,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1392153557}
-  - component: {fileID: 1392153556}
   m_Layer: 0
   m_Name: derevo (11)
   m_TagString: Untagged
@@ -7541,20 +6940,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1392153556
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1392153555}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1392153557
 Transform:
   m_ObjectHideFlags: 0
@@ -7577,7 +6962,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1408589448}
-  - component: {fileID: 1408589447}
   m_Layer: 0
   m_Name: derevo (57)
   m_TagString: Untagged
@@ -7585,20 +6969,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1408589447
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1408589446}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1408589448
 Transform:
   m_ObjectHideFlags: 0
@@ -7765,7 +7135,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1463305795}
-  - component: {fileID: 1463305794}
   m_Layer: 0
   m_Name: derevo (48)
   m_TagString: Untagged
@@ -7773,20 +7142,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1463305794
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1463305793}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1463305795
 Transform:
   m_ObjectHideFlags: 0
@@ -7953,7 +7308,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1504193453}
-  - component: {fileID: 1504193452}
   m_Layer: 0
   m_Name: derevo (55)
   m_TagString: Untagged
@@ -7961,20 +7315,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1504193452
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1504193451}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1504193453
 Transform:
   m_ObjectHideFlags: 0
@@ -8069,7 +7409,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1509254249}
-  - component: {fileID: 1509254248}
   m_Layer: 0
   m_Name: derevo (1)
   m_TagString: Untagged
@@ -8077,20 +7416,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1509254248
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1509254247}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1509254249
 Transform:
   m_ObjectHideFlags: 0
@@ -8258,7 +7583,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1556301579}
-  - component: {fileID: 1556301578}
   m_Layer: 0
   m_Name: derevo (38)
   m_TagString: Untagged
@@ -8266,20 +7590,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1556301578
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1556301577}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1556301579
 Transform:
   m_ObjectHideFlags: 0
@@ -8518,7 +7828,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1608739765}
-  - component: {fileID: 1608739764}
   m_Layer: 0
   m_Name: derevo (53)
   m_TagString: Untagged
@@ -8526,20 +7835,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1608739764
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1608739763}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1608739765
 Transform:
   m_ObjectHideFlags: 0
@@ -8562,7 +7857,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1619052004}
-  - component: {fileID: 1619052003}
   m_Layer: 0
   m_Name: derevo (62)
   m_TagString: Untagged
@@ -8570,20 +7864,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1619052003
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1619052002}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1619052004
 Transform:
   m_ObjectHideFlags: 0
@@ -8678,7 +7958,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1681720231}
-  - component: {fileID: 1681720230}
   m_Layer: 0
   m_Name: derevo (2)
   m_TagString: Untagged
@@ -8686,20 +7965,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1681720230
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1681720229}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1681720231
 Transform:
   m_ObjectHideFlags: 0
@@ -8932,7 +8197,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1710215581}
-  - component: {fileID: 1710215580}
   m_Layer: 0
   m_Name: derevo (26)
   m_TagString: Untagged
@@ -8940,20 +8204,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1710215580
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1710215579}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1710215581
 Transform:
   m_ObjectHideFlags: 0
@@ -9048,7 +8298,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1726629444}
-  - component: {fileID: 1726629443}
   m_Layer: 0
   m_Name: derevo (32)
   m_TagString: Untagged
@@ -9056,20 +8305,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1726629443
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1726629442}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1726629444
 Transform:
   m_ObjectHideFlags: 0
@@ -9120,7 +8355,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1762241981}
-  - component: {fileID: 1762241980}
   m_Layer: 0
   m_Name: derevo (46)
   m_TagString: Untagged
@@ -9128,20 +8362,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1762241980
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1762241979}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1762241981
 Transform:
   m_ObjectHideFlags: 0
@@ -9200,7 +8420,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1764523005}
-  - component: {fileID: 1764523004}
   m_Layer: 0
   m_Name: derevo (30)
   m_TagString: Untagged
@@ -9208,20 +8427,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1764523004
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1764523003}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1764523005
 Transform:
   m_ObjectHideFlags: 0
@@ -9244,7 +8449,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1766658153}
-  - component: {fileID: 1766658152}
   m_Layer: 0
   m_Name: derevo (15)
   m_TagString: Untagged
@@ -9252,20 +8456,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1766658152
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1766658151}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1766658153
 Transform:
   m_ObjectHideFlags: 0
@@ -9614,7 +8804,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1865382485}
-  - component: {fileID: 1865382484}
   m_Layer: 0
   m_Name: derevo (14)
   m_TagString: Untagged
@@ -9622,20 +8811,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1865382484
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1865382483}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1865382485
 Transform:
   m_ObjectHideFlags: 0
@@ -10037,7 +9212,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1908770783}
-  - component: {fileID: 1908770782}
   m_Layer: 0
   m_Name: derevo (43)
   m_TagString: Untagged
@@ -10045,20 +9219,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1908770782
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1908770781}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1908770783
 Transform:
   m_ObjectHideFlags: 0
@@ -10153,7 +9313,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1919069703}
-  - component: {fileID: 1919069702}
   m_Layer: 0
   m_Name: derevo (9)
   m_TagString: Untagged
@@ -10161,20 +9320,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1919069702
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1919069701}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1919069703
 Transform:
   m_ObjectHideFlags: 0
@@ -10197,7 +9342,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1923671646}
-  - component: {fileID: 1923671645}
   m_Layer: 0
   m_Name: derevo (24)
   m_TagString: Untagged
@@ -10205,20 +9349,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1923671645
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1923671644}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1923671646
 Transform:
   m_ObjectHideFlags: 0
@@ -10313,7 +9443,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1926502206}
-  - component: {fileID: 1926502205}
   m_Layer: 0
   m_Name: derevo (29)
   m_TagString: Untagged
@@ -10321,20 +9450,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1926502205
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1926502204}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1926502206
 Transform:
   m_ObjectHideFlags: 0
@@ -10500,7 +9615,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1995975620}
-  - component: {fileID: 1995975619}
   m_Layer: 0
   m_Name: derevo (39)
   m_TagString: Untagged
@@ -10508,20 +9622,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &1995975619
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1995975618}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &1995975620
 Transform:
   m_ObjectHideFlags: 0
@@ -10754,7 +9854,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2014470722}
-  - component: {fileID: 2014470721}
   m_Layer: 0
   m_Name: derevo (54)
   m_TagString: Untagged
@@ -10762,20 +9861,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &2014470721
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2014470720}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &2014470722
 Transform:
   m_ObjectHideFlags: 0
@@ -10798,7 +9883,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2015777790}
-  - component: {fileID: 2015777789}
   m_Layer: 0
   m_Name: derevo (16)
   m_TagString: Untagged
@@ -10806,20 +9890,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &2015777789
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2015777788}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &2015777790
 Transform:
   m_ObjectHideFlags: 0
@@ -10842,7 +9912,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2035566531}
-  - component: {fileID: 2035566530}
   m_Layer: 0
   m_Name: derevo
   m_TagString: Untagged
@@ -10850,20 +9919,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &2035566530
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2035566529}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &2035566531
 Transform:
   m_ObjectHideFlags: 0
@@ -10955,7 +10010,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2097546286}
-  - component: {fileID: 2097546285}
   m_Layer: 0
   m_Name: derevo (20)
   m_TagString: Untagged
@@ -10963,20 +10017,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!64 &2097546285
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2097546284}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 0}
 --- !u!4 &2097546286
 Transform:
   m_ObjectHideFlags: 0
